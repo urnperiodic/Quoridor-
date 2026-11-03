@@ -1,0 +1,6 @@
+{
+  "name": "Quoridor — Abstract Strategy & Corridor Tactician",
+  "description": "Authentic 9x9 Quoridor board game featuring single-player AI bots (Novice to Grandmaster), local 2-player and 4-player pass-and-play, and real-time WebSocket online multiplayer rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
